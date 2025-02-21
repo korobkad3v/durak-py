@@ -1,0 +1,1 @@
+Practising OOP principles on the card game "Durak" in Python
